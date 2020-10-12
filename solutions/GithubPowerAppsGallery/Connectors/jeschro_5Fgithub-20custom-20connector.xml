@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Connector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <connectorid>0891120b-d9e6-48b6-a51b-40d169c23db4</connectorid>
+  <description></description>
+  <displayname>Github Custom Connector</displayname>
+  <iconbrandcolor>#007ee5</iconbrandcolor>
+  <name>jeschro_5Fgithub-20custom-20connector</name>
+  <connectortype>1</connectortype>
+  <openapidefinition>/Connector/jeschro_5Fgithub-20custom-20connector_openapidefinition.json</openapidefinition>
+  <connectionparameters>/Connector/jeschro_5Fgithub-20custom-20connector_connectionparameters.json</connectionparameters>
+  <policytemplateinstances>/Connector/jeschro_5Fgithub-20custom-20connector_policytemplateinstances.json</policytemplateinstances>
+  <iconblob>/Connector/jeschro_5Fgithub-20custom-20connector_iconblob.Png</iconblob>
+</Connector>
