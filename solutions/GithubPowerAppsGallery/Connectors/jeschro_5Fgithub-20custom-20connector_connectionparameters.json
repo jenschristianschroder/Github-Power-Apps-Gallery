@@ -1,0 +1,1 @@
+{"token":{"type":"oauthSetting","oAuthSettings":{"identityProvider":"github","clientId":"67c5cb42b85c0d3787fd","scopes":["user repo"],"redirectMode":"Global","redirectUrl":"https://global.consent.azure-apim.net/redirect","properties":{"IsFirstParty":"False"},"customParameters":{}}}}

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>jeschro_githubcompanion_ff512</Name>
+  <AppVersion>2020-10-11T10:23:15Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.20091.41.0</CreatedByClientVersion>
+  <MinClientVersion>3.20091.41.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","sienaVersion":"69a4b91f-a601-49f4-8628-d3793db424e0","deviceCapabilities":"","supportsPortrait":"false","supportsLandscape":"true","primaryFormFactor":"Tablet","publisherVersion":"3.20091.41","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>rgba(1, 60, 96, 1)</BackgroundColor>
+  <DisplayName>Github Power Apps Gallery</DisplayName>
+  <Description xsi:nil="true"></Description>
+  <CommitMessage xsi:nil="true"></CommitMessage>
+  <Publisher xsi:nil="true"></Publisher>
+  <AuthorizationReferences xsi:nil="true"></AuthorizationReferences>
+  <ConnectionReferences>{"c4669c1d-c00f-4f2c-b8f1-67ae7b046ff0":{"id":"/providers/microsoft.powerapps/apis/shared_powerplatformforadmins","displayName":"Power Platform for Admins","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1382/1.0.1382.2097/powerplatformforadmins/icon.png","dataSources":["PowerPlatformforAdmins"],"dependencies":[],"dependents":[],"parameterHints":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard","isCustomApiSolutionAware":false},"8264df45-b8e1-4637-b377-af0914fd5c1f":{"id":"/providers/microsoft.powerapps/apis/shared_jeschro-5fgithub-20custom-20connector-5f02def9c079b0ff44","displayName":"Github Custom Connector","iconUri":"https://az787822.vo.msecnd.net/defaulticons/api-dedicated.png","dataSources":["GithubCustom"],"dependencies":[],"dependents":[],"parameterHints":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard","customApiLogicalName":"jeschro_5Fgithub-20custom-20connector","isCustomApiSolutionAware":true},"67f89789-662d-491b-a44e-7386c893356c":{"id":"/providers/microsoft.powerapps/apis/shared_logicflows","displayName":"Logic flows","iconUri":"https://resourcestackdeploy.blob.core.windows.net/scripts/13276078.png","dataSources":["GetRepositoryReadme"],"dependencies":["0ce6518a-579d-45b0-bcf4-0532733a64fe"],"dependents":[],"parameterHints":{"workflowName":{"value":"3801e9b8-7cfa-45bf-b4a1-9aab03a31596"},"0ce6518a-579d-45b0-bcf4-0532733a64fe":{"value":"shared_jeschro-5fgithub-20custom-20connector-5f02def9c079b0ff44"}},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard","isCustomApiSolutionAware":false},"0ce6518a-579d-45b0-bcf4-0532733a64fe":{"id":"/providers/microsoft.powerapps/apis/shared_jeschro-5fgithub-20custom-20connector-5f02def9c079b0ff44","displayName":"Github Custom Connector","iconUri":"https://az787822.vo.msecnd.net/defaulticons/api-dedicated.png","dataSources":[],"dependencies":[],"dependents":["67f89789-662d-491b-a44e-7386c893356c"],"parameterHints":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard","customApiLogicalName":"jeschro_5Fgithub-20custom-20connector","isCustomApiSolutionAware":true}}</ConnectionReferences>
+  <DatabaseReferences>{"default.cds":{"databaseDetails":{"referenceType":"Environmental","environmentName":"default.cds"},"dataSources":{"Solutions":{"entitySetName":"solutions","logicalName":"solution"},"Publishers":{"entitySetName":"publishers","logicalName":"publisher"}}}}</DatabaseReferences>
+  <CanConsumeAppPass>0</CanConsumeAppPass>
+  <BypassConsent>0</BypassConsent>
+  <AdminControlBypassConsent>0</AdminControlBypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <CdsDependencies>{"cdsdependencies":[{"logicalname":"jeschro_5Fgithub-20custom-20connector","componenttype":372,"componenttypeplatformname":"connector"},{"logicalname":"solution","componenttype":1},{"logicalname":"publisher","componenttype":1}]}</CdsDependencies>
+  <BackgroundImageUri>/CanvasApps/jeschro_githubcompanion_ff512_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/jeschro_githubcompanion_ff512_DocumentUri.msapp</DocumentUri>
+</CanvasApp>
