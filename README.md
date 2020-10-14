@@ -8,7 +8,7 @@ The solution consist of two components (both are included in the solution file)
 
 # Installation
 Several ways to install in your own environment
-1. Clone, Fork or Download the repository and pack a solution based on the source code and import it into your environment
+1. Clone, Download the repository and pack a solution based on the source code and import it into your environment
 2. Download the release https://github.com/jenschristianschroder/Github-Power-Apps-Gallery/files/5363134/GithubPowerAppsGallery_1_0_0_0.zip and import into your environment
 
 # Setup
