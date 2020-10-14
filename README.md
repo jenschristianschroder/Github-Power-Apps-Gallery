@@ -1,6 +1,8 @@
 # Github-Power-Apps-Gallery
 A Power App to display repositories from Github and allow direct deployment to Power Platform environments
 
+I posted a short demo video on linkedin here : https://www.linkedin.com/posts/jensschroder_powerplatform-citizendeveloper-prodeveloper-activity-6721033102728212480-8oHK
+
 # Solution
 The solution consist of two components (both are included in the solution file)
 1. Github Power Apps Gallery (Canvas App)
